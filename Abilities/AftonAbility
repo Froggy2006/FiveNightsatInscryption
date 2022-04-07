@@ -1,4 +1,4 @@
-```cs
+```csharp
 using BepInEx;
 using BepInEx.Logging;
 using System;
